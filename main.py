@@ -5,7 +5,7 @@ def menu():
     agenda = []
     # Exibir o menu e a opção para digitar
     while True:
-        print("\nd:")
+        print("\nMENU:")
         print("1 - Adicionar novo contato")
         print("2 - Editar um contato")
         print("3 - Pesquisar contato")
