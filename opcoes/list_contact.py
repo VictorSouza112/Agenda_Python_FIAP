@@ -16,3 +16,4 @@ def listar(agenda):  # Função para mostrar lista de contatos.
     add_contact.print_line(char='-')
     print("FIM DA AGENDA")
     add_contact.print_line(char='-')
+    return agenda
